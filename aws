@@ -1,0 +1,7 @@
+
+Python Data Types - GeeksforGeeks
+Since everything is an object in Python programming,
+Python data types are classes and variables are instances (objects) of these classes.
+The following are the standard or built-in data types in Python:
+Numeric - int, float, complex. Sequence Type - string, list,
+tuple
